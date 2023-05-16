@@ -66,4 +66,4 @@ document
         }
     });
 
-weather.fetchWeather("Panauti");
+weather.fetchWeather("Kathmandu");
